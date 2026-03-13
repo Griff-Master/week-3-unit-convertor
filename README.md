@@ -56,6 +56,11 @@
 ![Screenshot 6](images/screenshot6.png)
 ![Screenshot 7](images/screenshot7.png)
 
+
+### Challenge Faced ###
+ - Implementations of the screenshots was a bit challenging
+
+
 :bust_in_silhouette: Author
 
 Griffins Kyei
