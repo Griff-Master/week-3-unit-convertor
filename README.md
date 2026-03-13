@@ -58,7 +58,7 @@
 
 
 ### Challenge Faced ###
- - Implementations of the screenshots was a bit challenging
+ - Implementation of the screenshots was a bit challenging
 
 
 :bust_in_silhouette: Author
